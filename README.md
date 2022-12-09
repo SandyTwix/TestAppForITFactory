@@ -1,6 +1,6 @@
 # Тестовое задание для компании IT Factory
 
-![Скрин](https://github.com/SandyTwix/TestAppForITFactory/Скрин.png)
+![Image alt](https://github.com/SandyTwix/TestAppForITFactory/raw/develop/Скрин.png)
 
 ## Используемые архитектуры
 - UIKit как основной фрейморк для UI
