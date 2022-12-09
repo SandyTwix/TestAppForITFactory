@@ -4,6 +4,6 @@
 https://github.com/SandyTwix/TestAppForITFactory/Скрин.png
 
 ## Используемые архитектуры
-UIKit как основной фрейморк для UI
-MVVM как основная архитектура приложения
-URLSession для получения данных с API
+- UIKit как основной фрейморк для UI
+- MVVM как основная архитектура приложения
+- URLSession для получения данных с API
